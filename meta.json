@@ -1,0 +1,16 @@
+{
+ "id": "aikodeck",
+ "name": "Aikoyori's Deck",
+ "display_name": "Aikoyori's Deck",
+ "author": ["Aikoyori"],
+ "description": "Aikoyori's Very Own Deck Skin",
+ "prefix": "akyrdeck",
+ "main_file": "main.lua",
+ "priority": 0,
+ "badge_colour": "",
+ "badge_text_colour": "",
+ "version": "1.0.0",
+ "dependencies": [
+	"Steamodded (>=26.829.0)"
+ ]
+}
